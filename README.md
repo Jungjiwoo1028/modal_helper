@@ -1,5 +1,5 @@
 # Modal Helper
-custom modal Helper for React Native.
+[custom modal Helper for React Native](https://medium.com/@madeinkorea1028/react-native-helper-how-to-use-modal-custom-rather-than-modal-in-native-ios-android-40c9cf7fa6fa)
 
 ## Install
 [npm install react-native-popup-confirm-toast](https://www.npmjs.com/package/react-native-popup-confirm-toast)
